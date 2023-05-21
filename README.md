@@ -14,7 +14,7 @@ Paste the following code below func start.
 
 The function run properly once the URL Post has been given. Copy the API url.
 
-Run the Test.exe.
+Run the HTTP_Post_Testing.exe.
 
 Enter the API url in the first input box.
 
